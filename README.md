@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:Dmitrynarukov@yandex.ru">
-    <img src="https://img.shields.io/badge/Yandex_Dmail-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex">
+    <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex">
   </a>
 </div>
 
