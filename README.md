@@ -1,3 +1,8 @@
+<!--
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/86683621?v=4">
+<meta property="og:description" content="Backend-разработчик | Студент ННГУ">
+-->
+
 # 🚀 Привет, я Дмитрий! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 🎓 **Студент ННГУ им. Лобачевского** | 🗓️ 2024-2028  
