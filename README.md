@@ -35,8 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmHack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="max-width: 300px;">
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/DmHack/DmHack/output/github-contribution-grid-snake.svg)
-
 ## 🎯 Мои цели
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
