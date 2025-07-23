@@ -55,6 +55,7 @@
     <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>Микросервисы</b> - разобраться в архитектурных паттернах</td>
   </tr>
 </table>
+
 ## 📫 Свяжитесь со мной
 
 <div style="display: flex; gap: 15px;">
@@ -71,6 +72,5 @@
 ⭐ **Спасибо за посещение моего профиля!** Всегда открыт для сотрудничества и интересных проектов!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmHack&label=Profile+Views&color=blueviolet" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/DmHack?label=Follow&style=social" alt="GitHub Followers">
 </p>
