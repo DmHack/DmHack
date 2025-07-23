@@ -35,29 +35,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmHack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="max-width: 300px;">
 </div>
 
-![Snake animation](https://github.com/DmHack/DmHack/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DmHack/DmHack/output/github-contribution-grid-snake.svg)
 
 ## 🎯 Мои цели
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/docker.png" width="30" alt="Docker"></td>
-    <td><b>Docker & Kubernetes</b> - освоить контейнеризацию и оркестрацию</td>
+<table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
+  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
+    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="30" alt="Docker"></td>
+    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>Docker & Kubernetes</b> - освоить контейнеризацию и оркестрацию</td>
   </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/golang.png" width="30" alt="Go"></td>
-    <td><b>Go</b> - изучить для высоконагруженных систем</td>
+  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
+    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/color/48/000000/golang.png" width="30" alt="Go"></td>
+    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>Go</b> - изучить для высоконагруженных систем</td>
   </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/typescript.png" width="30" alt="TypeScript"></td>
-    <td><b>TypeScript</b> - изучить для backend-разработки</td>
+  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
+    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/color/48/000000/typescript.png" width="30" alt="TypeScript"></td>
+    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>TypeScript</b> - изучить для backend-разработки</td>
   </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/microservice-architecture.png" width="30" alt="Microservices"></td>
-    <td><b>Микросервисы</b> - разобраться в архитектурных паттернах</td>
+  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
+    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/clouds/100/000000/services.png" width="30" alt="Microservices"></td>
+    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>Микросервисы</b> - разобраться в архитектурных паттернах</td>
   </tr>
 </table>
-
 ## 📫 Свяжитесь со мной
 
 <div style="display: flex; gap: 15px;">
