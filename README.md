@@ -50,12 +50,12 @@
   </a>
 </p>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+---
 
-⭐ **Спасибо за посещение моего профиля!** Всегда открыт для сотрудничества и интересных проектов!
-
-<p align="center">
+<div align="center">
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+  <br>
+  <p>⭐ <b>Спасибо за посещение моего профиля!</b> Всегда открыт для сотрудничества.</p>
+  <br>
   <img src="https://img.shields.io/github/followers/DmHack?label=Follow&style=social" alt="GitHub Followers">
-</p>
+</div>
