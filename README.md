@@ -5,73 +5,62 @@
 
 # 🚀 Привет, я Дмитрий! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🎓 **Студент ННГУ им. Лобачевского** | 🗓️ 2024-2028  
-💻 **Backend Developer** | 🔥 Увлечен серверными технологиями
+🎓 **Студент ННГУ им. Лобачевского** (2024–2028)
+💻 **Backend Developer** | Увлечен высоконагруженными системами и архитектурой
 
-## 🛠️ Мой технологический стек
+---
 
-### 🔥 Основные технологии
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js" alt="Основные технологии" height="40">
+## 🛠 Tech Stack
+
+### ⚡ Основной стек
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=golang,nodejs,express,postgresql,mongodb" alt="Main Stack" height="45">
+</p>
+
+### 🔧 Инструменты & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools" height="45">
+</p>
+
+### 📚 Языки программирования
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,js,python,cpp,c" alt="Languages" height="45">
+</p>
+
+---
+
+## 📈 О чем я сейчас думаю?
+
+- 🐹 **Go:** Погружаюсь в разработку высоконагруженных сервисов.
+- 🏗 **Архитектура:** Изучаю паттерны микросервисов и событийную архитектуру (Event-driven).
+- 🐳 **Infrastructure:** Осваиваю Docker и Kubernetes для автоматизации развертывания.
+- 📊 **Базы данных:** Глубокое погружение в PostgreSQL и принципы оптимизации запросов.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DmHack&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmHack&layout=compact&theme=radical&hide_border=true" width="45%" />
 </div>
 
-###  Дополнительные навыки
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" alt="Дополнительные навыки" height="40">
-</div>
+---
 
-### ⚙️ Инструменты
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Инструменты" height="40">
-</div>
+## 📫 Контакты
 
-## 🌟 Мои интересы
-
-- � **Backend-разработка** - Node.js + Express, но открыт для новых технологий (Go, Java Spring)
-- 🗃️ **Базы данных** - MongoDB → изучаю PostgreSQL и Redis
-- 🛠️ **Архитектура** - Интересуюсь микросервисами и облачными решениями
-- 📝 **TypeScript** - Активно изучаю для улучшения качества кода
-
-## 📊 GitHub статистика
-
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DmHack&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="max-width: 400px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmHack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="max-width: 300px;">
-</div>
-
-## 🎯 Мои цели
-
-<table style="width: 100%; border-collapse: separate; border-spacing: 0 10px;">
-  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
-    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="30" alt="Docker"></td>
-    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>Docker & Kubernetes</b> - освоить контейнеризацию и оркестрацию</td>
-  </tr>
-  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
-    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/color/48/000000/golang.png" width="30" alt="Go"></td>
-    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>Go</b> - изучить для высоконагруженных систем</td>
-  </tr>
-  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
-    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/color/48/000000/typescript.png" width="30" alt="TypeScript"></td>
-    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>TypeScript</b> - изучить для backend-разработки</td>
-  </tr>
-  <tr style="background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
-    <td style="padding: 12px 15px; border-radius: 8px 0 0 8px;"><img src="https://img.icons8.com/clouds/100/000000/services.png" width="30" alt="Microservices"></td>
-    <td style="padding: 12px 15px; border-radius: 0 8px 8px 0;"><b>Микросервисы</b> - разобраться в архитектурных паттернах</td>
-  </tr>
-</table>
-
-## 📫 Свяжитесь со мной
-
-<div style="display: flex; gap: 15px;">
+<p align="left">
   <a href="https://t.me/MrDmHacks">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:Dmitrynarukov@yandex.ru">
-    <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex">
+    <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Email">
   </a>
-</div>
+</p>
 
----
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
 
 ⭐ **Спасибо за посещение моего профиля!** Всегда открыт для сотрудничества и интересных проектов!
 
