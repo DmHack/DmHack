@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js" alt="Основные технологии" height="40">
 </div>
 
-### 🌈 Дополнительные навыки
+###  Дополнительные навыки
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" alt="Дополнительные навыки" height="40">
 </div>
